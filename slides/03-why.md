@@ -4,7 +4,7 @@
 
 Deployment to production often takes a long time.
 
-## Time: Best Case - Continuos Delivery
+## Time: Best Case - Continuous Delivery
 
 Projects can take upwards of 20 to 30 minutes to build and test. (not uncommon)
 
